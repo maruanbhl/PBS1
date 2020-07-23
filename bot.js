@@ -372,8 +372,8 @@ client.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 10000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 7500; x++) {
+        message.channel.send(`**Hey, my name is Surge and I'm a bitch**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -386,8 +386,8 @@ client2.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 10000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 7500; x++) {
+        message.channel.send(`**Hey, my name is Surge and I'm a bitch**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -400,8 +400,8 @@ client3.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 10000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 7500; x++) {
+        message.channel.send(`**Hey, my name is Surge and I'm a bitch**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -414,8 +414,8 @@ client4.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 10000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 7500; x++) {
+        message.channel.send(`**Hey, my name is Surge and I'm a bitch**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -428,8 +428,8 @@ client5.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 10000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 7500; x++) {
+        message.channel.send(`**Hey, my name is Surge and I'm a bitch**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
